@@ -1,4 +1,4 @@
-# Sailfish OS projekt repository
+# Sailfish OS doubletab display configurator
 
 This is the Sailfish OS repository for doubletab_display_configurator
 
