@@ -2,7 +2,7 @@
 
 Sailfish OS repository for doubletab_display_configurator
 
-Required packages: wget => https://openrepos.net/content/nieldk/wget
+Required packages: wget => https://openrepos.net/content/nieldk/wget (or copy sourcecode manually )
 
 Install instructions :
 1. Connect to Sailfish device via terminal or open terminal directly on device
