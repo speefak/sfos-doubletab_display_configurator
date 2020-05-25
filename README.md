@@ -18,6 +18,7 @@ Additional information:
 
 It's not neccessary to install doubletab_display_configurator in /usr/local/bin. Script runs also without root priviliges, but for package installation in future releases root permissions are required. You can copy the script everwhere into the system, the execution path for the icon will updated after first execution from terminal 
 
+More Sailfish OS scripts and install instructions on  https://speefak.spdns.de/oss_lifestyle/post-index/sailfish-os/
 
 #---------------------------------------------------------------------------------------------------------------------------
 
